@@ -1,0 +1,59 @@
+*{
+       margin: 0;
+padding: 0; }
+
+.body{
+       font-family: "Poppins", sans-serif;
+}
+
+.cabeçario{background-color: #cf6505;
+       color: #093d01;
+display: flex ;
+justify-content: space-around;
+align-items: center; padding: 25px 0;}
+
+.cabeçario-imagem{ 
+       width: 10%;
+       height: 5% ;}
+
+.cabeçari-lista-item{display: inline-block;
+margin: 0 70px;
+font-size: 24px;}
+
+.escola{ 
+       background-image: linear-gradient(#007F73,#4CCD99,#FFC700);
+       color: #093d01;
+       display: flex;
+       justify-content: center;
+       align-items: center; 
+       padding: 25px 0;
+       font-family: "Poppins", sans-serif;
+}
+.escola-div-conteudo{
+       width: 40%;
+}
+.escola-imagem{ 
+       width: 30%;
+}
+
+.professores{
+       font-family: "Poppins", sans-serif;
+       color: #093d01;
+       display: flex;
+       justify-content:center;
+       align-items: center; 
+       padding: 25px 0;
+}
+.professores-div-conteudo{
+       width: 40%
+}
+.professores-img{
+       width: 198px;
+       height: 200px;
+}
+.professor-icone{
+       width:24px
+}
+.professor-div{
+       text-align: center;
+}
