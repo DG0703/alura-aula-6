@@ -48,12 +48,22 @@ font-size: 24px;}
        width: 40%
 }
 .professores-img{
-       width: 198px;
+       width: 200px;
        height: 200px;
 }
 .professor-icone{
        width:24px
 }
 .professor-div{
-       text-align: center;
+       text-align: center ;
 }
+.professores-titulo{
+       text-align: center;
+       padding: 50px 0px;
+}
+.professores-todos
+ {
+       display: grid;
+       grid-template-columns: 50% 50% 50% 50% 50%;
+        }
+          
